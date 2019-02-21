@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Before, I used "words" to comfort people and convey information. Now, I work with "numbers" because numbers can help to tell the story efficiently.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yxh180023@utdallas.edu](mailto:yxh180023@utdallas.edu)
